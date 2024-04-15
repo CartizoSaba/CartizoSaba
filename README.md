@@ -1,9 +1,10 @@
 ### Hello there 👋, I'm Austine Ogutu. 😉
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=CartizoSaba)](https://github.com/ryo-ma/github-profile-trophy)-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CartizoSaba" alt="CartizoSaba" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CartizoSaba&label=Profile%20views&color=10263b&style=flat" alt="CartizoSaba" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=CartizoSaba)](https://github.com/CartizoSaba/github-profile-trophy)
+<!--<p align="left"> <a href="https://github.com/CartizoSaba/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CartizoSaba" alt="CartizoSaba" /></a> </p>-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CartizoSaba&label=Profile%20views&color=0e75b6&style=flat" alt="CartizoSaba" /> </p> 
 
 
 
